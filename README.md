@@ -1,7 +1,7 @@
 - 👋 Hi, I’m **Deepak Gupta** in short ``DG``
 - 👀 I’m interested in ``Full Stack Development``, ``Front End with React.js``, ``Back End Development``and ``Problem Solving``
-- 🌱 I’m currently learning ``Redux``
-- 💞️ I’m looking to collaborate on ``Reddit MiNi``(clone of Reddit)
+- 🌱 I’m currently learning ``Python``
+- 💞️ I’m looking to ``New Job``(clone of Reddit)
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/deepak-gupta-07aa9b130)
 
 <!---
